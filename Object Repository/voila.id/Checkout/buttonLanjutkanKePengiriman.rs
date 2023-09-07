@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>buttonLanjutkanKePengiriman</name>
+   <tag></tag>
+   <elementGuidId>008b2de0-e0bc-4b6c-aee9-31cc59d7b8b0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.QT4by._1fragemex.rqC98.hodFu._7QHNJ.VDIfJ.j6D1f.janiy</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='submit']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>b52552f6-c0e3-4469-b46f-3197fb28c47c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>0f32800d-7838-488b-af14-549cc51f3eba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>QT4by _1fragemex rqC98 hodFu _7QHNJ VDIfJ j6D1f janiy</value>
+      <webElementGuid>6f355db4-69ed-4f02-a379-d29ba11fde04</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Lanjutkan ke pengiriman</value>
+      <webElementGuid>021a3ab0-d74e-49fd-a530-3db52fb007e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Form1&quot;)/div[@class=&quot;_1frageme0&quot;]/div[1]/div[@class=&quot;VheJw&quot;]/div[@class=&quot;oQEAZ WD4IV&quot;]/div[1]/button[@class=&quot;QT4by _1fragemex rqC98 hodFu _7QHNJ VDIfJ j6D1f janiy&quot;]</value>
+      <webElementGuid>fed9d8f5-f5a0-4943-bdd7-4f36edbd2fa8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='submit']</value>
+      <webElementGuid>b980e588-bcca-416b-b2b0-bbf575303243</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='Form1']/div/div/div[2]/div[2]/div/button</value>
+      <webElementGuid>611d67ca-ed4a-4334-aa2c-3fc863d6d53e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terima info SMS resi pesanan &amp; penawaran'])[1]/following::button[1]</value>
+      <webElementGuid>b8ba6246-d7ac-48c3-8faa-0b8d5fd19299</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No Handphone'])[1]/following::button[2]</value>
+      <webElementGuid>0486b88e-059e-41f4-b51a-18d2cfabf0c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kebijakan Pengembalian Dana'])[1]/preceding::button[2]</value>
+      <webElementGuid>7a1162bf-540f-4135-96f3-f8e84b368ae8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/button</value>
+      <webElementGuid>c946d216-7feb-4c9b-9ac2-97251ad47469</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and (text() = 'Lanjutkan ke pengiriman' or . = 'Lanjutkan ke pengiriman')]</value>
+      <webElementGuid>278d1db6-f8a8-46b6-9629-b31299b64f46</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

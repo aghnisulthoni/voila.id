@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tabMenCategory</name>
+   <tag></tag>
+   <elementGuidId>f3c5578d-a658-49e3-9c77-c1fc085bd5d0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.dropdown.selected.megamenu.tt-submenu.active > a > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main-menu']/div/div/nav/ul/li[4]/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f56e4dbe-c417-4fd4-92a8-f8eee70e0c04</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Men</value>
+      <webElementGuid>246c64b0-a583-438d-a596-b96fa28d8e53</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-menu&quot;)/div[@class=&quot;tt-desctop-parent-menu tt-parent-box tt-parent-box-padding&quot;]/div[@class=&quot;tt-desctop-menu&quot;]/nav[1]/ul[1]/li[@class=&quot;dropdown selected megamenu tt-submenu active&quot;]/a[1]/span[1]</value>
+      <webElementGuid>23e8a5df-4abd-4b79-810e-678c9adbdf8c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-menu']/div/div/nav/ul/li[4]/a/span</value>
+      <webElementGuid>55dcbd80-8af5-40bd-8747-189e5f36945a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IDR 2.079.000'])[1]/following::span[1]</value>
+      <webElementGuid>13601312-90a3-4001-91e2-8948055f5214</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Koda Crossbody Bag Raisin'])[1]/following::span[1]</value>
+      <webElementGuid>c6371a13-c248-4d55-9b70-63b376818972</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All Men Categories'])[3]/preceding::span[1]</value>
+      <webElementGuid>bd37c274-0ac2-4533-bc38-0de952033a4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bags'])[5]/preceding::span[1]</value>
+      <webElementGuid>3344b397-70e5-4cd8-b9c2-94b52e3e108f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/a/span</value>
+      <webElementGuid>6860e9af-01ee-4dd0-850e-077ee431e79c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Men' or . = 'Men')]</value>
+      <webElementGuid>c4f8ca76-ebd5-4b27-9fe5-18d5b780ec42</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

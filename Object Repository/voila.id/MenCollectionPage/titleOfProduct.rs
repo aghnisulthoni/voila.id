@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>titleOfProduct</name>
+   <tag></tag>
+   <elementGuidId>f4da6a33-eea3-47c1-9303-69fe86a4ebad</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.boost-pfs-filter-product-item-title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='shopify-section-collection-template-boost-pfs-filter']/div[2]/div/div[2]/div[4]/div/div/div[2]/div/a[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>17fae88a-f7b8-464c-8df4-0aeb23b8ab8a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/collections/men/products/ric-campus-logo-t-shirt-black#</value>
+      <webElementGuid>02db0590-045a-4672-a031-d66335bf9da3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>boost-pfs-filter-product-item-title</value>
+      <webElementGuid>26837c0c-8913-4256-b265-3ec3b1cf7489</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-samitapbl-handle</name>
+      <type>Main</type>
+      <value>ric-campus-logo-t-shirt-black#</value>
+      <webElementGuid>3b4e39d1-7e87-4dbe-a659-a10ed87fe88a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Campus Logo T-Shirt Black</value>
+      <webElementGuid>52af41e7-8677-4f74-8953-8e323f2eec87</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;shopify-section-collection-template-boost-pfs-filter&quot;)/div[@class=&quot;boost-pfs-filter-wrapper&quot;]/div[@class=&quot;boost-pfs-container-default-box&quot;]/div[@class=&quot;boost-pfs-filter-right-col&quot;]/div[@class=&quot;boost-pfs-filter-products boost-pfs-filter-product-item-equal-height-auto boost-pfs-filter-product-item-label-type-rectangle boost-pfs-filter-product-item-show-details-false boost-pfs-filter-product-item-layout-no-border boost-pfs-filter-product-item-label-top_left boost-pfs-filter-product-item-text-alignment-center bc-al-style1&quot;]/div[@class=&quot;boost-pfs-filter-product-item boost-pfs-filter-product-item-grid boost-pfs-filter-grid-width-3 boost-pfs-filter-grid-width-mb-2 has-bc-swap-image boost-pfs-action-list-enabled boost-pfs-action-list-single-button&quot;]/div[@class=&quot;boost-pfs-filter-product-item-inner&quot;]/div[@class=&quot;boost-pfs-filter-product-bottom&quot;]/div[@class=&quot;boost-pfs-filter-product-bottom-inner&quot;]/a[@class=&quot;boost-pfs-filter-product-item-title&quot;]</value>
+      <webElementGuid>c8275431-63c2-4592-84d1-4dcd2e44d52e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='shopify-section-collection-template-boost-pfs-filter']/div[2]/div/div[2]/div[4]/div/div/div[2]/div/a[2]</value>
+      <webElementGuid>b54fab04-2908-44a3-9a79-cc21d353a6be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Campus Logo T-Shirt Black')]</value>
+      <webElementGuid>47ee69d7-3b2c-4ad1-9662-c125571d4fd6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='RIC'])[1]/following::a[1]</value>
+      <webElementGuid>152d51a3-9efb-465a-8931-da65f6f0b9a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Load Previous Page'])[1]/following::a[3]</value>
+      <webElementGuid>cb2059dc-3e6f-4dce-b812-1ef4051bb364</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IDR 900.000'])[1]/preceding::a[1]</value>
+      <webElementGuid>856e877b-3382-4cac-a163-608512c6352e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='RIC'])[2]/preceding::a[2]</value>
+      <webElementGuid>7e205a51-2e46-41cd-8c39-7dc368374869</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Campus Logo T-Shirt Black']/parent::*</value>
+      <webElementGuid>56ef1ddd-4a89-409b-adfc-1bd0d4ee8fa2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/collections/men/products/ric-campus-logo-t-shirt-black#')]</value>
+      <webElementGuid>ae8e7019-c1c0-480d-b188-3097acc7029e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/a[2]</value>
+      <webElementGuid>24f58b3a-35f1-4c3b-a6cb-37a5ad13b525</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/collections/men/products/ric-campus-logo-t-shirt-black#' and (text() = 'Campus Logo T-Shirt Black' or . = 'Campus Logo T-Shirt Black')]</value>
+      <webElementGuid>55b5d1dd-2a40-411e-b7c8-ee537fb42d00</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

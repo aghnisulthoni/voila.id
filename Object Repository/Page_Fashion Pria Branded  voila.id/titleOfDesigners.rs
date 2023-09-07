@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>titleOfDesigners</name>
+   <tag></tag>
+   <elementGuidId>5e6677e2-fe29-4f0d-bf4a-5fa8782d4fc9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.boost-pfs-filter-option.boost-pfs-filter-option-list.boost-pfs-filter-option-designers.boost-pfs-filter-has-scrollbar.boost-pfs-filter-option-column-1 > div.boost-pfs-filter-option-title > button.boost-pfs-filter-button.boost-pfs-filter-option-title-heading > span.boost-pfs-filter-option-title-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='boost-pfs-filter-tree']/div/div[3]/div[4]/div/button/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>4daa17d3-4aea-46a1-baa0-e06765bba73b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>boost-pfs-filter-option-title-text</value>
+      <webElementGuid>584060f2-ca99-404f-95b0-e97e95ada43c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Designers</value>
+      <webElementGuid>15883931-9048-430b-8669-41073db2d22e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;boost-pfs-filter-tree&quot;)/div[@class=&quot;boost-pfs-filter-tree-content&quot;]/div[@class=&quot;boost-pfs-filter-options-wrapper&quot;]/div[@class=&quot;boost-pfs-filter-option boost-pfs-filter-option-list boost-pfs-filter-option-designers boost-pfs-filter-has-scrollbar boost-pfs-filter-option-column-1&quot;]/div[@class=&quot;boost-pfs-filter-option-title&quot;]/button[@class=&quot;boost-pfs-filter-button boost-pfs-filter-option-title-heading&quot;]/span[@class=&quot;boost-pfs-filter-option-title-text&quot;]</value>
+      <webElementGuid>5684bcd7-fd3e-4b6d-914e-d76816a3af25</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='boost-pfs-filter-tree']/div/div[3]/div[4]/div/button/span</value>
+      <webElementGuid>cf920447-5bf4-48a4-9bfe-2359b08cdf89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apply'])[3]/following::span[1]</value>
+      <webElementGuid>4b2a4110-3c16-40e6-a5bc-307e9941108b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(22)'])[1]/following::span[1]</value>
+      <webElementGuid>1c71f044-5962-4d36-a69a-74c78fe2b8b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clear'])[4]/preceding::span[2]</value>
+      <webElementGuid>901d7d24-7a3b-464e-b92c-674304d256a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='A.P.C'])[3]/preceding::span[3]</value>
+      <webElementGuid>0f1436b4-6919-43fe-aa09-95b03fef5bbe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/button/span</value>
+      <webElementGuid>d6719f0e-dbe7-4608-a523-fbbe22abd096</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Designers' or . = 'Designers')]</value>
+      <webElementGuid>b194e782-892e-439d-931f-369af305a6bb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

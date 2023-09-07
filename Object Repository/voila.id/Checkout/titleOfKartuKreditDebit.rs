@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>titleOfKartuKreditDebit</name>
+   <tag></tag>
+   <elementGuidId>dfc1222e-3139-4904-903b-ab1062de4ca0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.list-title.text-actionable-bold</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='application']/div/div/div[3]/a/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>51ad03d8-6e99-44f2-a8b3-32332c9e5e3a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>list-title text-actionable-bold</value>
+      <webElementGuid>8c31ef39-b67e-4850-a4f0-e6247e28edba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kartu kredit/debit</value>
+      <webElementGuid>eea39d6d-0441-424f-bc3b-498df1eb8a6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;application&quot;)/div[@class=&quot;page-container scroll&quot;]/div[@class=&quot;payment-container-list&quot;]/div[3]/a[@class=&quot;list&quot;]/div[@class=&quot;list-content&quot;]/div[@class=&quot;list-title text-actionable-bold&quot;]</value>
+      <webElementGuid>95aee0b4-8fdc-4444-8a06-27da516e43c2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='application']/div/div/div[3]/a/div/div</value>
+      <webElementGuid>6e42590e-1828-4995-a961-ef224b877a32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bank lainnya'])[1]/following::div[7]</value>
+      <webElementGuid>a2ceeeb0-da06-45f4-97f8-5b7a4a5b5997</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Virtual account'])[1]/following::div[32]</value>
+      <webElementGuid>c1454da9-09af-4ffd-b2a3-d8441c836fbf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ShopeePay'])[1]/preceding::div[8]</value>
+      <webElementGuid>32065974-f5cd-48ba-82e7-77bf0b476847</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Akulaku PayLater'])[1]/preceding::div[16]</value>
+      <webElementGuid>db0ff1ea-9564-4b0a-bd7e-a95e554a83cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Kartu kredit/debit']/parent::*</value>
+      <webElementGuid>6754d030-b1e1-40fd-8730-a35a9ea4eae6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/a/div/div</value>
+      <webElementGuid>de2a6dde-03d5-4668-ad57-be68437fd798</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Kartu kredit/debit' or . = 'Kartu kredit/debit')]</value>
+      <webElementGuid>a27fd3b7-ea3e-4a3a-b7c9-93e8c47e79f2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

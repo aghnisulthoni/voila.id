@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>buttonClosePopUp</name>
+   <tag></tag>
+   <elementGuidId>201492f9-82b9-4fa4-b3e8-bea9fc913193</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>path</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;modal-title1&quot;]/div/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>3602d20e-5099-4d26-bc78-0cb50d5ca069</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z</value>
+      <webElementGuid>b32c82f1-4d6f-47d0-bd37-47585c7e5681</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modal-title1&quot;)/div[@class=&quot;mars32&quot;]/button[@class=&quot;MuiButtonBase-root MuiIconButton-root mars34 mars35 MuiIconButton-colorInherit mars38&quot;]/span[@class=&quot;MuiIconButton-label&quot;]/svg[@class=&quot;MuiSvgIcon-root mars36&quot;]/path[1]</value>
+      <webElementGuid>31f1f62e-c4eb-4ee2-b521-35b3bbc22c17</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/voila.id/Login/displayPopUp</value>
+      <webElementGuid>bd2fa54e-736a-4450-a87a-36ac397da62a</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>priceLowToHigh</name>
+   <tag></tag>
+   <elementGuidId>5d022c10-77a4-45ae-9cc1-ba5083abd10c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.boost-pfs-filter-toolbar-item.boost-pfs-filter-custom-sorting.boost-pfs-filter-top-sorting.boost-pfs-filter-sort-active > ul.boost-pfs-filter-filter-dropdown > li:nth-of-type(4) > a[title=&quot;Price: low to high&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='shopify-section-collection-template-boost-pfs-filter']/div[2]/div/div[2]/div[2]/div/div/ul/li[4]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>55988bf8-7acf-46d4-89cd-aebd1e865e00</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>0ec653b3-04c9-496c-8f20-da1a6242ca9a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-sort</name>
+      <type>Main</type>
+      <value>price-ascending</value>
+      <webElementGuid>20b84e0c-a0e2-4f3f-88f0-b7692d596dd3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Price: low to high</value>
+      <webElementGuid>4dd63af3-adac-4e32-b7eb-cedb5edd521d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Price: low to high</value>
+      <webElementGuid>d716f0a8-9f46-415c-8b7b-08a1d7fe36db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Price: low to high</value>
+      <webElementGuid>a6d1e3c6-034b-47ca-9456-fbfd714e78ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;shopify-section-collection-template-boost-pfs-filter&quot;)/div[@class=&quot;boost-pfs-filter-wrapper&quot;]/div[@class=&quot;boost-pfs-container-default-box&quot;]/div[@class=&quot;boost-pfs-filter-right-col&quot;]/div[@class=&quot;boost-pfs-filter-default-toolbar  boost-pfs-filter-toolbar-top-mobile-hide-view-as   boost-pfs-filter-toolbar-top-mobile-hide-product-count&quot;]/div[@class=&quot;boost-pfs-container-default-box boost-pfs-filter-default-toolbar-inner&quot;]/div[@class=&quot;boost-pfs-filter-toolbar-item boost-pfs-filter-custom-sorting boost-pfs-filter-top-sorting boost-pfs-filter-sort-active&quot;]/ul[@class=&quot;boost-pfs-filter-filter-dropdown&quot;]/li[4]/a[1]</value>
+      <webElementGuid>982ef162-a621-4959-95bc-41df7b1c09ca</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='shopify-section-collection-template-boost-pfs-filter']/div[2]/div/div[2]/div[2]/div/div/ul/li[4]/a</value>
+      <webElementGuid>4e9ee87d-fd9d-4ac6-9535-5501ac8e1252</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Price: low to high')])[2]</value>
+      <webElementGuid>cb9532b8-a29a-4ed2-937a-f73438de5723</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Men Collections'])[1]/following::a[5]</value>
+      <webElementGuid>2dfa06de-a6bb-4bd4-a222-8f7898f83bff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apply All'])[1]/following::a[5]</value>
+      <webElementGuid>8d914c3f-7373-45d3-b2ce-ad5abd17cf9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Load Previous Page'])[1]/preceding::a[3]</value>
+      <webElementGuid>f33c8918-a424-4ae3-bcb9-91f4a7027230</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thom Browne'])[3]/preceding::a[4]</value>
+      <webElementGuid>2b200179-9611-4a98-b8b1-ab3cdfe75864</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[32]</value>
+      <webElementGuid>bb5c5b48-825c-48f1-aaf6-4495cf014b98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/ul/li[4]/a</value>
+      <webElementGuid>525bd75f-4c80-4222-910f-c7fa138f3a13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#' and @title = 'Price: low to high' and (text() = 'Price: low to high' or . = 'Price: low to high')]</value>
+      <webElementGuid>2203bf6e-63fd-4c20-a629-dbe36b811183</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

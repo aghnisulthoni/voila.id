@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>buttonBayarSekarang</name>
+   <tag></tag>
+   <elementGuidId>1b103c73-b7fd-48da-847a-9e43ed989406</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.QT4by._1fragemex.rqC98.hodFu._7QHNJ.VDIfJ.j6D1f.janiy</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='submit']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>2e088ddb-00b2-49d0-8258-b2c9bc371aa2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>5573ea26-3855-4e05-a747-82c53e98613e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>QT4by _1fragemex rqC98 hodFu _7QHNJ VDIfJ j6D1f janiy</value>
+      <webElementGuid>4a11aab3-a775-404b-b7e3-65eb1047896a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Bayar sekarang</value>
+      <webElementGuid>25cf2701-e909-40bc-a4ef-8c7bd76bab87</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Form3&quot;)/div[@class=&quot;_1frageme0&quot;]/div[@class=&quot;VheJw&quot;]/div[@class=&quot;oQEAZ WD4IV&quot;]/div[1]/button[@class=&quot;QT4by _1fragemex rqC98 hodFu _7QHNJ VDIfJ j6D1f janiy&quot;]</value>
+      <webElementGuid>a88347aa-7c58-4a9e-959a-b42417de0412</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='submit']</value>
+      <webElementGuid>29b84972-620f-41a5-9d78-4898664e70b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='Form3']/div/div/div[2]/div/button</value>
+      <webElementGuid>097a95c3-1fd1-4c49-8619-d5b8ffb3b8ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pakai alamat penagihan lain'])[1]/following::button[1]</value>
+      <webElementGuid>74aaa6dd-0ee0-4e2c-af40-89662d3abfb4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sama dengan alamat pengiriman'])[1]/following::button[1]</value>
+      <webElementGuid>b03a0fb8-c13b-433d-bad1-7a5d6bb300e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kembali ke pengiriman'])[1]/preceding::button[1]</value>
+      <webElementGuid>3831adc5-1b73-4a30-88b1-8af6c98863b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/button</value>
+      <webElementGuid>ecd8c4e7-d5ae-4d7b-810d-ff0c9b86fc55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and (text() = 'Bayar sekarang' or . = 'Bayar sekarang')]</value>
+      <webElementGuid>bb759d9f-eb90-4da0-a93f-4fcdb30473f7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>titleOfPageMenCollections</name>
+   <tag></tag>
+   <elementGuidId>e58d6e53-704d-410f-a1f7-f0380ec11d78</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h1.tt-collection-title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='shopify-section-collection-template-boost-pfs-filter']/div[2]/div/h1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>58f1b254-9bc4-40ef-bc62-5b11401cff3c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>tt-collection-title</value>
+      <webElementGuid>6ea386ff-a511-4f66-8957-a014627fac6b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Men Collections</value>
+      <webElementGuid>be817f62-08b9-4722-91a8-83b4f53d9e38</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;shopify-section-collection-template-boost-pfs-filter&quot;)/div[@class=&quot;boost-pfs-filter-wrapper&quot;]/div[@class=&quot;boost-pfs-container-default-box&quot;]/h1[@class=&quot;tt-collection-title&quot;]</value>
+      <webElementGuid>b02a5a55-e306-456e-a0ee-161b8bad64da</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='shopify-section-collection-template-boost-pfs-filter']/div[2]/div/h1</value>
+      <webElementGuid>c5a18d9b-4ede-4144-be6a-e9173c039aeb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apply All'])[1]/following::h1[1]</value>
+      <webElementGuid>302604d5-8f29-4296-a02a-0cc47a5fa395</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(2841)'])[1]/following::h1[1]</value>
+      <webElementGuid>d15daa58-2919-4dfb-82ac-79d9178fa32b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Load Previous Page'])[1]/preceding::h1[1]</value>
+      <webElementGuid>df4743cd-ca59-43b0-9a34-f3a2deb158d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New'])[1]/preceding::h1[1]</value>
+      <webElementGuid>98b3ec0a-ec29-4977-978b-1d49b7de9806</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Men Collections']/parent::*</value>
+      <webElementGuid>4dd06216-92b6-4cab-9565-7371d98852da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>05546a36-7b44-4e42-af67-7eda795d845e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'Men Collections' or . = 'Men Collections')]</value>
+      <webElementGuid>75f5eccc-8098-44ec-b522-a33e2b2531f6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "6390B91D68447CEF8CEA3E28C8F11B9C",
+  "keywordClasses": [
+    {
+      "name": "com.saucelabs.LoginSteps",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

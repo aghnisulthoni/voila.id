@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>buttonSortby</name>
+   <tag></tag>
+   <elementGuidId>cb8b7ec7-22d1-4fc5-ba0b-735267c3dcee</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.boost-pfs-filter-toolbar-item.boost-pfs-filter-custom-sorting.boost-pfs-filter-top-sorting.boost-pfs-filter-sort-active > button.boost-pfs-filter-top-sorting-wrapper</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='shopify-section-collection-template-boost-pfs-filter']/div[2]/div/div[2]/div[2]/div/div/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>7f6b845c-3a61-4f08-be1b-4247e56d5ef1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>boost-pfs-filter-top-sorting-wrapper</value>
+      <webElementGuid>40f6cfd0-ce8b-4a32-9b02-3dcf99e0d4f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Sort by</value>
+      <webElementGuid>cab75564-9bd6-4f3a-80b2-5e8369c47e21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sort by</value>
+      <webElementGuid>fa224e5f-5be1-4b0b-8280-2c2783e17e3d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;shopify-section-collection-template-boost-pfs-filter&quot;)/div[@class=&quot;boost-pfs-filter-wrapper&quot;]/div[@class=&quot;boost-pfs-container-default-box&quot;]/div[@class=&quot;boost-pfs-filter-right-col&quot;]/div[@class=&quot;boost-pfs-filter-default-toolbar  boost-pfs-filter-toolbar-top-mobile-hide-view-as   boost-pfs-filter-toolbar-top-mobile-hide-product-count&quot;]/div[@class=&quot;boost-pfs-container-default-box boost-pfs-filter-default-toolbar-inner&quot;]/div[@class=&quot;boost-pfs-filter-toolbar-item boost-pfs-filter-custom-sorting boost-pfs-filter-top-sorting boost-pfs-filter-sort-active&quot;]/button[@class=&quot;boost-pfs-filter-top-sorting-wrapper&quot;]</value>
+      <webElementGuid>9aaab6cd-c201-409a-83d3-e8f9959505bc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='shopify-section-collection-template-boost-pfs-filter']/div[2]/div/div[2]/div[2]/div/div/button</value>
+      <webElementGuid>a51adbcd-4e5e-499a-9b54-6b6c0f49b14b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Men Collections'])[1]/following::button[1]</value>
+      <webElementGuid>87f02bc3-1872-45b5-8255-2e8f8ac0e926</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apply All'])[1]/following::button[1]</value>
+      <webElementGuid>1f2b50cf-2f34-4759-b2cb-4385aae2ac39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Load Previous Page'])[1]/preceding::button[1]</value>
+      <webElementGuid>b2b32177-8eb2-41af-9ead-26b5da3f062f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thom Browne'])[3]/preceding::button[2]</value>
+      <webElementGuid>4cf2276a-7e20-463c-9652-80746ee744ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div[2]/div/div/button</value>
+      <webElementGuid>d77e4aff-6b98-4d16-85ba-ee39843ec9b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Sort by' or . = 'Sort by')]</value>
+      <webElementGuid>e4d3a646-c6f1-4b13-861d-30ba13ad5e5a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

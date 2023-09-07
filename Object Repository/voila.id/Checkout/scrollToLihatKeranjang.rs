@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>scrollToLihatKeranjang</name>
+   <tag></tag>
+   <elementGuidId>e2284436-3a8a-4ade-afa2-7d877287af7f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='modalAddToCartProduct']/div/div/div[2]/div/a[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>cb4fd52e-165a-4969-aab2-43555c6e2c02</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/cart</value>
+      <webElementGuid>56bc6780-7f3d-41f8-b560-2d31dd9461e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-border ttmodalbtn ttmodalbtn</value>
+      <webElementGuid>52a534aa-d814-4947-a89f-7442b74bdd4e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Lihat Keranjang</value>
+      <webElementGuid>4b3bcda5-9334-4e14-a5ba-00635b77058b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modalAddToCartProduct&quot;)/div[@class=&quot;modal-dialog&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/div[@class=&quot;tt-modal-addtocart mobile&quot;]/a[@class=&quot;btn btn-border ttmodalbtn ttmodalbtn&quot;]</value>
+      <webElementGuid>2c3e5e70-0188-4c47-9272-1d92627f4813</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modalAddToCartProduct']/div/div/div[2]/div/a[2]</value>
+      <webElementGuid>6947dafe-39e8-4443-a473-a912ec1e4cca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Lihat Keranjang')]</value>
+      <webElementGuid>84805281-fb3a-4653-a0f1-a9cb8f635711</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='M'])[5]/following::a[2]</value>
+      <webElementGuid>23180cf2-d73e-47c1-a244-ba1a648f0bb2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Campus Logo T-Shirt Black'])[5]/following::a[2]</value>
+      <webElementGuid>e2d429cf-f80c-474a-b7e8-803584967392</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Campus Logo T-Shirt Black'])[6]/preceding::a[1]</value>
+      <webElementGuid>6710acc6-9c86-4f41-a410-01b4b639cd40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/cart')])[5]</value>
+      <webElementGuid>f89ab9d9-4fe1-4491-ba4a-4de690d834a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/a[2]</value>
+      <webElementGuid>f118e69a-1b4f-49bc-9e3c-53a6b3cdc19d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/cart' and (text() = 'Lihat Keranjang' or . = 'Lihat Keranjang')]</value>
+      <webElementGuid>61160abf-9664-41be-b9d0-2de2fed4fb15</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
